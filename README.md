@@ -4,12 +4,39 @@ This is what I offer currently, I am hoping to have some 1-1 personal and group 
 
 ## Features
 
+### Existing Features
+
+- __Navigation Bar__
+
+  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home, Our Offer and Conact page and is identical in each page to allow for easy navigation.
+  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
+
+- __Banner__
+  - Includes the banner used in social networks
+  
+- __What The personal trainer has to offer__
+  - In this section the web page show the main product our client is most interested in show to customers.
+
+- __The Footer__ 
+
+  - The footer section includes links to the relevant social media sites for Uphill Fitness. The links will open to a new tab to allow easy navigation for the user. 
+  - The footer is valuable to the user as it encourages them to keep connected via social media
+
+- __Contact page__
+  - Include a form where some of the fields are required (Name, Last Name, email and Phone) and in addition the data for email is validated.
+
+- __Our Offer page__
+  - It shows the two products our customer is offering at this moment
+
+
+## Testing
+
 ### Validator Testing 
 
 - HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
+  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Frodolazo.github.io%2Fmilestone-project1%2F)
 - CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
+  - Some errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Frodolazo.github.io%2Fmilestone-project1%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en) however those errors belong to the libray used and not to the personal css used.
 
 ## Deployment
 
