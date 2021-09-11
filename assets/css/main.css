@@ -43,8 +43,18 @@ footer a {
 	  font-size: 20px;
   }
 
-  @media only screen and (max-width: 600px) {
-	nav a {
-	  text-align:center;
-	}
-  }
+ .footer-height{
+	 height:95px
+ }
+
+ .header-height{
+	 height: 125px;
+ }
+
+ .image-full{
+	 width: 100%;
+ }
+
+ .image-half{
+	 width: 50%;
+ }
